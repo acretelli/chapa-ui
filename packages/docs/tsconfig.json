@@ -1,0 +1,4 @@
+{ 
+  "extends": "@chapa-ui/ts-config/react.json",
+  "include": ["src"]
+}
