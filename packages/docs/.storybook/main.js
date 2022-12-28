@@ -18,7 +18,7 @@ module.exports = {
   },
   "viteFinal": (config, { configType }) => {
     if (configType === 'PRODUCTION') {
-      config.base = '/05-design-system/'
+      config.base = '/chapa-ui/'
     }
 
     return config
