@@ -34,9 +34,4 @@ export const colors = {
   success300: '#B4E4C4',
   success500: '#399E5A',
   success800: '#31874D',
-
-  ignite300: '#00B37E',
-  ignite500: '#00875F',
-  ignite700: '#015F43',
-  ignite900: '#00291D',
 }
