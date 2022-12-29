@@ -8,6 +8,7 @@ export const TextInputContainer = styled('div', {
   border: '2px solid $gray900',
   display: 'flex',
   alignItems: 'baseline',
+  width: '100%',
 
   '&:has(input:focus)': {
     borderColor: '$primary300',
