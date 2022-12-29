@@ -34,4 +34,6 @@ export const colors = {
   success300: '#B4E4C4',
   success500: '#399E5A',
   success800: '#31874D',
+
+  test: '#fff',
 }
