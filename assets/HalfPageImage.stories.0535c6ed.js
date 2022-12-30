@@ -1,0 +1,2 @@
+import{H as t}from"./index.b98c9bd8.js";import"./index.e7cbbd52.js";import"./iframe.b117c970.js";import"./index.d0e3c09d.js";import"./jsx-runtime.04198d3c.js";const m={title:"Data Display/HalfPageImage",component:t,args:{src:"https://cdn.ome.lt/NAeXRwHXI1jAnhkdGChpxjtVt8U=/987x0/smart/uploads/conteudo/fotos/orfa_2.png",alt:"Foto do usu\xE1rio"},argsType:{src:{control:{type:"text"}}}},p={},i=["Primary"];export{p as Primary,i as __namedExportsOrder,m as default};
+//# sourceMappingURL=HalfPageImage.stories.0535c6ed.js.map
